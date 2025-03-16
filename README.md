@@ -1,6 +1,6 @@
 # Coinfinder
 
-This private repository contains selected frontend and backend files from Coinfinder, provided for the Phantom Wallet review.
+This repository contains selected frontend and backend files from Coinfinder, provided for the Phantom Wallet review.
 
 ## Overview
 
